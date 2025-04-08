@@ -1,0 +1,8 @@
+C:\Users\andy.mize\Documents\Visual Studio 2022\ImportOrder-Nortek\WinFormsApp1\obj\Debug\net8.0-windows\Interop.PARANCXLib.dll
+C:\Users\andy.mize\Documents\Visual Studio 2022\ImportOrder-Nortek\WinFormsApp1\obj\Debug\net8.0-windows\ImportOrder-Nortek.vbproj.ResolveComReference.cache
+C:\Users\andy.mize\Documents\Visual Studio 2022\ImportOrder-Nortek\WinFormsApp1\obj\Debug\net8.0-windows\ImportOrder-Nortek.Form1.resources
+C:\Users\andy.mize\Documents\Visual Studio 2022\ImportOrder-Nortek\WinFormsApp1\obj\Debug\net8.0-windows\ImportOrder-Nortek.vbproj.GenerateResource.cache
+C:\Users\andy.mize\Documents\Visual Studio 2022\ImportOrder-Nortek\WinFormsApp1\obj\Debug\net8.0-windows\ImportOrder-Nortek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy.mize\Documents\Visual Studio 2022\ImportOrder-Nortek\WinFormsApp1\obj\Debug\net8.0-windows\ImportOrder-Nortek.AssemblyInfoInputs.cache
+C:\Users\andy.mize\Documents\Visual Studio 2022\ImportOrder-Nortek\WinFormsApp1\obj\Debug\net8.0-windows\ImportOrder-Nortek.AssemblyInfo.vb
+C:\Users\andy.mize\Documents\Visual Studio 2022\ImportOrder-Nortek\WinFormsApp1\obj\Debug\net8.0-windows\ImportOrder-Nortek.vbproj.CoreCompileInputs.cache

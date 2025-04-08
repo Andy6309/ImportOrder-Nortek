@@ -1,0 +1,2 @@
+OrderFileLocation=C:\Users\andy.mize\Desktop\Nortek
+ConvertedFileLocation=C:\temp
