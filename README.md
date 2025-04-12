@@ -33,6 +33,7 @@ C:\Prima Power\ncexpress\YOUR_MACHINE_NAME\bin
 Here is a list of files needed:
 
  
+![image](https://github.com/user-attachments/assets/c0ba970f-a8f7-48c8-bab8-410d4fbaafbc)
 
 
 
@@ -85,7 +86,8 @@ If you ever wish to use NCX Order function as before, simply remove the ImportOr
 ImportOrder.exe Overview:
 
  
-Figure 1
+![image](https://github.com/user-attachments/assets/12c48f40-0aa2-4e19-a08b-85cd0e8a3ab3)
+
 
 
 1: Order and AutoTool
@@ -168,6 +170,7 @@ Press Order button form Orders Database of NCX. This will trigger Import Order ‚
 
 
 
+![image](https://github.com/user-attachments/assets/aedba35d-44ff-4f01-8fa2-6c5def146f4c)
 
 
 
@@ -177,7 +180,9 @@ Press Order button form Orders Database of NCX. This will trigger Import Order ‚
 This is after Order and Autotool button has been pressed, Order file selected, and new folder created.
 Application shows Order file selected, and which parts are processing in progress bar.
 
- 
+ ![image](https://github.com/user-attachments/assets/8ddb8665-2eb6-43b4-abec-a582721a85e6)
+![image](https://github.com/user-attachments/assets/5b348a6f-7ff5-4129-85ed-93cbaa0c87fe)
+
  
 
 Once files are made, you will receive complete prompt:
@@ -185,6 +190,7 @@ Once files are made, you will receive complete prompt:
  
 
 
+![image](https://github.com/user-attachments/assets/951c6e19-5a53-49ff-a8c3-52a2797bb452)
 
 
 
@@ -197,11 +203,13 @@ Once files are made, you will receive complete prompt:
 You will proceed to Convert the file:
 
  
+![image](https://github.com/user-attachments/assets/02cd1da2-c7a0-41b5-baba-b4d3766533ec)
 
 
 After OK , you will make new CP Files:
 
- 
+ ![image](https://github.com/user-attachments/assets/161290e2-d74c-4e2b-ace2-107a04db1152)
+
 
 Progess bar will indicate which file is being created.
 
@@ -211,7 +219,8 @@ Progess bar will indicate which file is being created.
 
 Press ‚ÄúOk‚Äù to the pop-up indicating completion.
 
- 
+ ![image](https://github.com/user-attachments/assets/4dda33f3-5f67-4cdf-beb8-2e97e96fdab2)
+
 
 Finally, press IMPORT ORDER button.
 
@@ -223,6 +232,7 @@ Finally, press IMPORT ORDER button.
 
 
 
+![image](https://github.com/user-attachments/assets/8eddb3af-cd16-4c0f-9b8d-518d1b872ccb)
 
 
 
@@ -232,6 +242,7 @@ Finally, press IMPORT ORDER button.
 
 Order file will now be present in Orders Database of NCX:
 
- 
+ ![image](https://github.com/user-attachments/assets/0ed71762-dfac-47c6-9235-de321aece005)
+
 
 Proceed with nesting as normal.
